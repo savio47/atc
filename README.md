@@ -1,6 +1,8 @@
 # atc
 Ground Aircraft Handling and Support System
 
+atc.zip contains code in compressed format.
+
 Final year Engineering project; Associated with Padre Conceicao College of Engineering, Verna.
 Worked in a team of five, to develop a system to increase airport efficiency. 
 
